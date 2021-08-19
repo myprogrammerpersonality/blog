@@ -1,0 +1,5 @@
+baseURL = 'https://myprogrammerpersonality.github.io/'
+languageCode = 'en-us'
+title = 'My Personal Website'
+theme = 'contrast-hugo'
+

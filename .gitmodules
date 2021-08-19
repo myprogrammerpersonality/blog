@@ -1,0 +1,4 @@
+[submodule "mypersonalwebsite/public"]
+	path = mypersonalwebsite/public
+	url = https://github.com/myprogrammerpersonality/myprogrammerpersonality.github.io.git
+	branch = main
